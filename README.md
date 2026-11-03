@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/fogonapps/fogon/main/apps/cucha/fastlane/metadata/android/en-US/images/icon.png" width="140" alt="La Cucha"></p>
+
 # La Cucha
 
 Lo que comes: calorías, proteína, recetas colombianas y el menú de la semana. Sin anuncios, sin rastreo, y sin internet salvo para buscar un código de barras si tú lo activas.

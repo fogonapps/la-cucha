@@ -4,7 +4,7 @@
 
 Lo que comes: calorías, proteína, recetas colombianas y el menú de la semana. Sin anuncios, sin rastreo, y sin internet salvo para buscar un código de barras si tú lo activas.
 
-Una app de [Fogón](https://github.com/fogonapps/fogon): apps de Android libres, hechas en casa.
+Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
 
 ## Instalar
 

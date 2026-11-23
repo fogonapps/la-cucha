@@ -2,9 +2,9 @@
 
 # La Cucha
 
-Lo que comes: calorías, proteína, recetas colombianas y el menú de la semana. Sin anuncios, sin rastreo, y sin internet salvo para buscar un código de barras si tú lo activas.
+Lo que comes: calorías, proteína, recetas colombianas y el menú de la semana. Sin anuncios. No vendemos tus datos. Usa internet para las estadísticas anónimas, que puedes apagar en Ajustes, y cuando buscas un código de barras o usas Fogón Social.
 
-Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones, sin anuncios ni rastreo.
+Una app de [Fogón](https://github.com/fogonapps/fogon): apps para el día a día, sin suscripciones ni anuncios. No vendemos tus datos.
 
 ## Instalar
 
@@ -17,4 +17,4 @@ Paquete `io.github.fogonapps.cucha`. Certificado de firma (SHA-256): `ce5406882e
 
 ---
 
-**English.** What you eat: calories, protein, Colombian recipes and a weekly menu. No ads, no tracking, and no internet except for an optional barcode lookup. Install with Obtainium (paste `https://github.com/fogonapps/la-cucha`) or grab the APK from the [latest release](https://github.com/fogonapps/la-cucha/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/cucha) (GPL-3.0-or-later).
+**English.** What you eat: calories, protein, Colombian recipes and a weekly menu. No ads. We don’t sell your data. The app uses the internet for anonymous usage statistics, which you can turn off in Settings, and when you look up a barcode or use Fogón Social. Install with Obtainium (paste `https://github.com/fogonapps/la-cucha`) or grab the APK from the [latest release](https://github.com/fogonapps/la-cucha/releases/latest). Source code: [fogonapps/fogon](https://github.com/fogonapps/fogon/tree/main/apps/cucha) (GPL-3.0-or-later).
